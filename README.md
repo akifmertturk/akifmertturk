@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [A](https://github.com/yusuftekinx)[k](https://github.com/myildiz97)[i](https://github.com/eneskarahancer)[f](https://github.com/osmanaygun)
+## Hi there! I'm [A](https://github.com/yusuftekinx)[k](https://github.com/myildiz97)[i](https://github.com/eneskarahancer)[f](https://github.com/osmanaygun)
 
 I am a passionate Software Engineer with a strong background in Computer Engineering. I'm dedicated to creating innovative solutions and collaborating with like-minded individuals to tackle challenging problems.
 
