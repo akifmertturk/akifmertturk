@@ -15,7 +15,7 @@ I'm always looking to expand my knowledge and skills. Currently, I'm focusing on
 
 ### 👯 Best Team
 
-I am working with the best [team](https://github.com/solarvis/), and the best pair [myildiz97](https://github.com/myildiz97).
+I am working with the best pair [myildiz97](https://github.com/myildiz97).
 
 ### 📫 How to Reach Me
 
