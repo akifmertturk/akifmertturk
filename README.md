@@ -1,6 +1,6 @@
 ## Hi there! I'm [A](https://github.com/yusuftekinx)[k](https://github.com/myildiz97)[i](https://github.com/eneskarahancer)[f](https://github.com/osmanaygun)
 
-Software Engineer with 8+ years of experience, focused on building scalable web & mobile applications.
+Software Engineer focused on building web & mobile applications.
 
 ### 🚀 Current Project
 
