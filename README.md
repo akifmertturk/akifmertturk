@@ -19,7 +19,7 @@ I am a passionate Software Engineer with a strong background in Computer Enginee
   </a>
 </div>
 
-> Boost your productivity with PomoClass - a powerful web application that combines the Pomodoro Technique with modern study tools. Features include customizable study sessions, analytics dashboard, and collaborative study rooms.
+> Boost your productivity with PomoClass - a powerful web application that combines the Pomodoro Technique with modern study tools.
 
 ---
 ### 🛠️ Tech Stack
