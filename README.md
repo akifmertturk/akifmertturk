@@ -1,7 +1,7 @@
 ## Hi there! I'm Akif
 
 Software Engineer focused on building web & mobile applications.
-
+<!--
 ## 🛠 What I've Built
 
 <div align="center">
@@ -37,6 +37,7 @@ Software Engineer focused on building web & mobile applications.
 </div>
 
 ---
+-->
 
 ## Tech Stack
 
@@ -47,6 +48,10 @@ Software Engineer focused on building web & mobile applications.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-2DAAE1?style=flat-square&logo=grpc&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
